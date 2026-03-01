@@ -1,3 +1,1 @@
-Hello ygcvyt 7
-cjcjy
-uyvuvi
+This is server for testing
